@@ -1,0 +1,13 @@
+GET http://localhost:8080/albums
+
+###
+
+POST http://localhost:8080/albums
+Content-Type: application/json
+
+{
+  "id": 4,
+  "title": "Minutes to Midnight",
+  "artist": "Linkin Park",
+  "price": 2004
+}
