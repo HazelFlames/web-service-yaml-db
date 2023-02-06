@@ -1,0 +1,21 @@
+albums:
+- artist: Linkin Park
+  id: 1
+  releaseyear: 2010
+  title: A Thousand Suns
+- artist: Miley Cyrus
+  id: 2
+  releaseyear: 2023
+  title: Endless Summer Vacation
+- artist: Jon Bellion
+  id: 3
+  releaseyear: 2016
+  title: The Human Condition
+- artist: Linkin Park
+  id: 4
+  releaseyear: 2004
+  title: Minutes to Midnight
+- artist: Linkin Park
+  id: 4
+  releaseyear: 2004
+  title: Minutes to Midnight

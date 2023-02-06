@@ -36,6 +36,6 @@ func postAlbums(ctx *gin.Context) {
 
 func saveAlbums(ctx *gin.Context) {
 	generateYAMLFile(albums)
-
 	ctx.IndentedJSON(http.StatusOK, albums)
+	getYAMLFile()
 }
